@@ -1,9 +1,0 @@
-marks={'Bob':99,'Mike':91,'Cary':89,'Kane':93,'Adam':98}
-
-l=len(marks)
-
-for i in range(l):
-
-    print(marks.popitem())
-
-    print(marks)
